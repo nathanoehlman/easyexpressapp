@@ -1,0 +1,27 @@
+{
+  "name": "easyexpressapp",
+  "version": "0.0.1",
+  "description": "Easily create new Express apps that use a standard file structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --reporter spec -t 10000 --globals moment"
+  },
+  "repository": "",
+  "author": "Nathan Oehlman",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "express": "~3.2.6",
+    "async": "~0.2.9",
+    "inclusive": "0.0.0",
+    "hbs": "~2.3.0",
+    "moment": "~2.4.0",
+    "handlebars-helpers": "~0.4.4",
+    "request": "~2.21.0",
+    "passport": "~0.1.16",
+    "grunt": "~0.4.2"
+  },
+  "devDependencies": {
+    "chai": "~1.8.1"
+  }
+}
