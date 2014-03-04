@@ -1,6 +1,6 @@
 {
   "name": "easyexpressapp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easily create new Express apps that use a standard file structure",
   "main": "index.js",
   "scripts": {
